@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.14">
+  <diagram name="Página-1" id="OZHXoUl1RTo-BFHLG5MN">
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-1" target="EVGb62T4acrzOd0r0Mvz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-1" value="Sistema de cadastro para agencias de emprego" style="rounded=1;whiteSpace=wrap;html=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="184" y="60" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-2" target="EVGb62T4acrzOd0r0Mvz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-2" value="Cadastrar funcionários" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="190" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-5" target="EVGb62T4acrzOd0r0Mvz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-5" value="Enviar currículo" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="337" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-6" target="EVGb62T4acrzOd0r0Mvz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-6" value="Atualizar informações&lt;div&gt;de cadastro&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="466" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-7" target="EVGb62T4acrzOd0r0Mvz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-7" value="Enviar currículo para&amp;nbsp;&lt;div&gt;Agencias&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="600" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-8" target="EVGb62T4acrzOd0r0Mvz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-8" value="Buscar informações&lt;div&gt;de candidatos&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="732" width="232" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-21" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-16" target="EVGb62T4acrzOd0r0Mvz-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-23" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-16" target="EVGb62T4acrzOd0r0Mvz-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-16" value="Usuário" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="403" width="98.57" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-20" target="EVGb62T4acrzOd0r0Mvz-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-26" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-20" target="EVGb62T4acrzOd0r0Mvz-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-20" target="EVGb62T4acrzOd0r0Mvz-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-20" value="Funcionário&lt;div&gt;Agencia&lt;/div&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="714" y="414" width="98.57" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-22" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.022;entryY=0.36;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EVGb62T4acrzOd0r0Mvz-16" target="EVGb62T4acrzOd0r0Mvz-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EVGb62T4acrzOd0r0Mvz-27" value="Enviar informações do&amp;nbsp;&lt;div&gt;candidato para empresas&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=19;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="298" y="860" width="232" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
