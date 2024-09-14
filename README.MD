@@ -32,10 +32,10 @@ O objetivo principal do sistema é facilitar o processo de recrutamento para emp
 
 ## Tecnologias Utilizadas
 
-- **Backend**: [Tecnologia a ser definida, exemplo: Node.js, C#, Java]
-- **Frontend**: [Tecnologia a ser definida, exemplo: React, Angular]
-- **Banco de Dados**: [Banco de dados a ser utilizado, exemplo: MySQL, MongoDB]
-- **Autenticação e Segurança**: Utilização de hashing para senhas e autenticação via email/senha ou redes sociais (Google, LinkedIn). Conformidade com a LGPD para proteção de dados.
+- **Backend**: [C#]
+- **Frontend**: [React]
+- **Banco de Dados**: [MySQL]
+- **Autenticação e Segurança**: Utilização de hashing para senhas e autenticação via email/senha.
 
 ## Requisitos Funcionais
 
@@ -55,3 +55,6 @@ O objetivo principal do sistema é facilitar o processo de recrutamento para emp
 - **Segurança**: Conformidade com a LGPD e criptografia via HTTPS.
 - **Disponibilidade**: 99,9% de uptime, acessível 24/7.
 - **Backup e Recuperação**: Backup automático diário e recuperação de dados em caso de falha.
+
+![caso_de_uso](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/CasoDeUso/caso_de_uso.png)
+
