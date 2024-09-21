@@ -32,10 +32,10 @@ O objetivo principal do sistema é facilitar o processo de recrutamento para emp
 
 ## Tecnologias Utilizadas
 
-- **Backend**: [Tecnologia a ser definida, exemplo: Node.js, C#, Java]
-- **Frontend**: [Tecnologia a ser definida, exemplo: React, Angular]
-- **Banco de Dados**: [Banco de dados a ser utilizado, exemplo: MySQL, MongoDB]
-- **Autenticação e Segurança**: Utilização de hashing para senhas e autenticação via email/senha ou redes sociais (Google, LinkedIn). Conformidade com a LGPD para proteção de dados.
+- **Backend**: [C#]
+- **Frontend**: [React]
+- **Banco de Dados**: [MySQL]
+- **Autenticação e Segurança**: Utilização de hashing para senhas e autenticação via email/senha.
 
 ## Requisitos Funcionais
 
@@ -55,3 +55,26 @@ O objetivo principal do sistema é facilitar o processo de recrutamento para emp
 - **Segurança**: Conformidade com a LGPD e criptografia via HTTPS.
 - **Disponibilidade**: 99,9% de uptime, acessível 24/7.
 - **Backup e Recuperação**: Backup automático diário e recuperação de dados em caso de falha.
+
+## Diagramas
+# Diagrama de caso de uso
+![caso_de_uso](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/CasoDeUso/caso_de_uso.png)
+
+# Diagramas de atividade
+![cadastro_de_funcionarios](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/Diagrama%20de%20Atividades/CadastroFuncionario/cadastro_funcion%C3%A1rio.png)
+
+![cadastro_de_usuarios](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/Diagrama%20de%20Atividades/CadastroUsu%C3%A1rio/cadastro_usuario.png)
+
+# Diagrama de classes
+![diagrama_de_classes](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaDeClasses/diagramadeclasses.png)
+
+# Diagramas sequenciais
+![cadastro_funcionario](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaSequencial/Cadastro%20funcion%C3%A1rio/cadastro_funcion%C3%A1rio.png)
+
+![cadastro_usuarios](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaSequencial/CadastroUsuario/cadastro_usuario.png)
+
+![confirmacao_emails](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaSequencial/Confirma%C3%A7%C3%A3o%20email/confirma%C3%A7%C3%A3o_email.png)
+
+![login](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaSequencial/Login/login.png)
+
+![upload de currículo](https://github.com/kaykymatos/analise-e-projeto-de-sistema-2/blob/main/ProjetoDesenvolvidoPeloGrupo/DiagramaSequencial/UploadCurr%C3%ADculo/upload_curr%C3%ADculo_usu%C3%A1rio.png)
