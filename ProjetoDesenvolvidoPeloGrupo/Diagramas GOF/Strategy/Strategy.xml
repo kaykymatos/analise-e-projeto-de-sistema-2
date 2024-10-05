@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1154" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="350" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-27" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="350" y="40" width="873" height="590" as="geometry" />
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--0" value="EstrategiaBusca " style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="400" y="151" width="330" height="98" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="zkfFHV4jXpPFQw0GAbJ--1" value="Buscar(): Lista&lt;Candidato&gt;    " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zkfFHV4jXpPFQw0GAbJ--0" vertex="1">
+          <mxGeometry y="26" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-4" value="Strategy" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=43;fontStyle=1" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="590" y="80" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-9" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=18;dashPattern=8 8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="380" as="sourcePoint" />
+            <mxPoint x="781" y="183" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-10" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=18;dashPattern=8 8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="973" y="340" as="sourcePoint" />
+            <mxPoint x="972.57" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-11" value="Cliente" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="750" y="165" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-12" value="SistemaDeBusca " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="936" y="151" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="790" y="218" as="sourcePoint" />
+            <mxPoint x="970" y="218" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-20" value=" SetEstrategia()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#DB9600;" vertex="1" connectable="0" parent="hvkLRfAIeFgDBIUDKPyi-13">
+          <mxGeometry x="-0.0325" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-150" value="" style="endArrow=none;html=1;rounded=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="780" y="334.58" as="sourcePoint" />
+            <mxPoint x="974" y="334.58" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="894" y="334.58" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-160" value=" EstrategiaBuscaPorHabilidades " style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="260" width="330" height="98" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-161" value="Buscar(): Lista&lt;Candidato&gt;    " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hvkLRfAIeFgDBIUDKPyi-160">
+          <mxGeometry y="26" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-162" value="  EstrategiaBuscaPorLocalizacao " style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="370" width="330" height="98" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-163" value="Buscar(): Lista&lt;Candidato&gt;    " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hvkLRfAIeFgDBIUDKPyi-162">
+          <mxGeometry y="26" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-164" value="  SistemaDeBusca " style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="400" y="476" width="330" height="98" as="geometry">
+            <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-165" value="estrategia: EstrategiaBusca      " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hvkLRfAIeFgDBIUDKPyi-164">
+          <mxGeometry y="26" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-171" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.079;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="hvkLRfAIeFgDBIUDKPyi-164" source="hvkLRfAIeFgDBIUDKPyi-166" target="hvkLRfAIeFgDBIUDKPyi-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="94" as="sourcePoint" />
+            <mxPoint x="70" y="44" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-166" value="SetEstrategia(estrategia: EstrategiaBusca): void      " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hvkLRfAIeFgDBIUDKPyi-164">
+          <mxGeometry y="50" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-170" value="RealizarBusca(): Lista&lt;Candidato&gt;      " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="hvkLRfAIeFgDBIUDKPyi-164">
+          <mxGeometry y="74" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-172" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=2;rounded=0;fontSize=18;dashPattern=8 8;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1150" y="350" as="sourcePoint" />
+            <mxPoint x="1150" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-173" value="EstrategiaBuscaPorHabilidades " style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="1100" y="151" width="74" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-174" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="970" y="240" as="sourcePoint" />
+            <mxPoint x="1150" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-175" value=" Buscar()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#DB9600;" vertex="1" connectable="0" parent="hvkLRfAIeFgDBIUDKPyi-174">
+          <mxGeometry x="-0.0325" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-176" value="" style="endArrow=none;html=1;rounded=0;dashed=1;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="980" y="270" as="sourcePoint" />
+            <mxPoint x="1154" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1074" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-177" value="Retorna Lista de Candidatos" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hvkLRfAIeFgDBIUDKPyi-176">
+          <mxGeometry x="0.0172" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="hvkLRfAIeFgDBIUDKPyi-179" value="Retorna Lista de Candidatos" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="950" y="328" width="150" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
