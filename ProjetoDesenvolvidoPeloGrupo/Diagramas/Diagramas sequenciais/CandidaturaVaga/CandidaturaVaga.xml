@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Página-1" id="gR0imzNtBzyyIBOfip2D">
+    <mxGraphModel dx="1467" dy="723" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="350" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-1" value="Banco de dados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="790" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.412;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="272.5" as="sourcePoint" />
+            <mxPoint x="119" y="337.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="272.5" />
+              <mxPoint x="210" y="337.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-4" value=" Salvar candidatura" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-3">
+          <mxGeometry x="-0.0553" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="344" as="sourcePoint" />
+            <mxPoint x="-241" y="344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="344" />
+              <mxPoint x="30" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-6" value="Confirmação de candidatura" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-5">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-229.5" y="150" as="sourcePoint" />
+            <mxPoint x="115" y="150" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="5.5" y="150" />
+              <mxPoint x="5.5" y="150" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-24" value="Envia solicitação ao banco" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-23">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.412;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="150" as="sourcePoint" />
+            <mxPoint x="119" y="215" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="150" />
+              <mxPoint x="210" y="215" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-26" value=" Buscar vagas com filtros aplicados" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-25">
+          <mxGeometry x="-0.0553" y="-6" relative="1" as="geometry">
+            <mxPoint x="76" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="35" y="210" />
+              <mxPoint x="35" y="210" />
+            </Array>
+            <mxPoint x="110" y="210" as="sourcePoint" />
+            <mxPoint x="-236" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-29" value="Retornar lista de vagas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-28">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-7" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-8" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="pKRVsdWyQjP1DmXaa4QP-7">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-239.5" y="270" as="sourcePoint" />
+            <mxPoint x="105" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4.5" y="270" />
+              <mxPoint x="-4.5" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-11" value="Selecionar vaga para candidatura" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-10">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="pKRVsdWyQjP1DmXaa4QP-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="345" as="sourcePoint" />
+            <mxPoint x="-231" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="345" />
+              <mxPoint x="40" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-13" value="Exibir confirmação de candidatura enviada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-12">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-14" value="Candidato  " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-15" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="pKRVsdWyQjP1DmXaa4QP-14">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="300" as="sourcePoint" />
+            <mxPoint x="550.5" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="300" />
+              <mxPoint x="441" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-17" value="Solicitar busca de vagas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-16">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="pKRVsdWyQjP1DmXaa4QP-8" target="pKRVsdWyQjP1DmXaa4QP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="360" />
+              <mxPoint x="470" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-19" value="Exibir lista de vagas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-18">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="894.5" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="420" />
+              <mxPoint x="785" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-21" value="Registrar candidatura" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="pKRVsdWyQjP1DmXaa4QP-20">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pKRVsdWyQjP1DmXaa4QP-22" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;b&gt;&lt;u&gt;Candidatar-se a Vaga&lt;/u&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="50" width="360" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

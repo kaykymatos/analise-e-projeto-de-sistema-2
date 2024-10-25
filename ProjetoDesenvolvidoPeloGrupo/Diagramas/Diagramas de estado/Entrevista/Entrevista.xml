@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Página-1" id="KyeuoGK-pz5_pl7C7QBF">
+    <mxGraphModel dx="1057" dy="620" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="200" pageHeight="350" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=15;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-7" target="0x-NRBDVdjf8I2q8VhBm-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="285" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=3;fontSize=15;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-3" target="0x-NRBDVdjf8I2q8VhBm-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-3" value="Entrevista Agendada" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="410" y="205" width="120" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-5" target="0x-NRBDVdjf8I2q8VhBm-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="265" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-5" value="Entrevista Cancelada" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="880" y="215" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-6" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;strokeWidth=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1280" y="245" width="45" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-7" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=none;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="210" y="237.5" width="50" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-8" value="Início" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="205" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-9" value="Fim" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="207.5" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;strokeWidth=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-3" target="0x-NRBDVdjf8I2q8VhBm-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="840" y="315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-16" target="0x-NRBDVdjf8I2q8VhBm-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-16" value="Entrevista em processo" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="420" y="395" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;curved=1;strokeWidth=3;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-19" target="0x-NRBDVdjf8I2q8VhBm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=3;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="0x-NRBDVdjf8I2q8VhBm-19" target="0x-NRBDVdjf8I2q8VhBm-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0x-NRBDVdjf8I2q8VhBm-19" value="Entrevista Concluida" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=3;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="970" y="395" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

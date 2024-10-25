@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.2">
+  <diagram name="Page-1" id="13e1069c-82ec-6db2-03f1-153e76fe0fe0">
+    <mxGraphModel dx="1760" dy="868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="7baba1c4bc27f4b0-4" value="Banco de dados" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" parent="1" vertex="1">
+          <mxGeometry x="790" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="7baba1c4bc27f4b0-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="7baba1c4bc27f4b0-4" vertex="1">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.412;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="272.5" as="sourcePoint" />
+            <mxPoint x="119" y="337.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="210" y="272.5" />
+              <mxPoint x="210" y="337.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-16" value=" Salvar vaga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-15">
+          <mxGeometry x="-0.0553" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="7baba1c4bc27f4b0-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="105" y="344" as="sourcePoint" />
+            <mxPoint x="-241" y="344" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="30" y="344" />
+              <mxPoint x="30" y="344" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-18" value="Confirmação de criação de vaga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-17">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-1" value="Sistema" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="440" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="OcnGr6CSdCr3_GHtQwPF-1">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.412;entryY=0.198;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="OcnGr6CSdCr3_GHtQwPF-1" source="OcnGr6CSdCr3_GHtQwPF-2" target="OcnGr6CSdCr3_GHtQwPF-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="210" y="140" />
+              <mxPoint x="210" y="205" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="OcnGr6CSdCr3_GHtQwPF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-239.5" y="270" as="sourcePoint" />
+            <mxPoint x="105" y="270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-4.5" y="270" />
+              <mxPoint x="-4.5" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-12" value="Preencher dados da vaga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-11">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="OcnGr6CSdCr3_GHtQwPF-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="115" y="345" as="sourcePoint" />
+            <mxPoint x="-231" y="345" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="345" />
+              <mxPoint x="40" y="345" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-20" value="Exibir confirmação de vaga criada" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-19">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-3" value="Recrutador " style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=22;align=center;" vertex="1" parent="1">
+          <mxGeometry x="90" y="150" width="220" height="580" as="geometry" />
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="OcnGr6CSdCr3_GHtQwPF-3">
+          <mxGeometry x="105" y="140" width="10" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="206" y="300" as="sourcePoint" />
+            <mxPoint x="550.5" y="300" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="441" y="300" />
+              <mxPoint x="441" y="300" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-8" value="Solicitar criação de vaga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-5">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="1" source="OcnGr6CSdCr3_GHtQwPF-2" target="OcnGr6CSdCr3_GHtQwPF-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="360" />
+              <mxPoint x="470" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-10" value="Exibir formulário de criação de vaga" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-9">
+          <mxGeometry x="0.0482" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="420" as="sourcePoint" />
+            <mxPoint x="894.5" y="420" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="785" y="420" />
+              <mxPoint x="785" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-14" value="Envia informações para o banco" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=17;" vertex="1" connectable="0" parent="OcnGr6CSdCr3_GHtQwPF-13">
+          <mxGeometry x="-0.2067" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OcnGr6CSdCr3_GHtQwPF-21" value="&lt;font style=&quot;font-size: 33px;&quot;&gt;&lt;u&gt;&lt;b&gt;Criar Vaga de Emprego&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="355" y="50" width="390" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
